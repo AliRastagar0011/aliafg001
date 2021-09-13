@@ -76,7 +76,7 @@ def Cybery():
     os.system('clear')
     print logo
     print 42 * '~'
-    print '  [01] CRACK  ALL Country  WITH NUMBERS '
+    print '[01] CRACK  ALL Country  WITH NUMBERS '
     print 42 * '~'
     Ali()
 
@@ -91,7 +91,7 @@ def Ali():
     elif bch == '01':
         os.system('clear')
         print logo
-        print '  HACK ALL COUNTRY FB '
+        print 'HACK ALL COUNTRY FB '
         try:
             k = raw_input(' Enter Country Code : ')
             c = raw_input(' Enter Range Code ')
